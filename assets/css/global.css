@@ -1,0 +1,10 @@
+.justify-content-betwen{
+	justify-content: space-between;
+}
+.dp-flex{
+	display: flex;
+}
+/* img{
+	width: 100%;
+	height: auto;
+} */
